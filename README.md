@@ -44,5 +44,11 @@ Python community came up with WSGI as a standard interface that modules and cont
 
 Details to be added later, specially for static files which to be served using nginx.
 
-
+Try It Out
+===========
+```
+http://localhost:5000/
+http://localhost:5000/hello/
+http://localhost:5000/hello/deepak/
+```
 
